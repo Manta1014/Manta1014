@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-+ I’m passionate about **Data Science and AI**, especially when used for **environmental and public health applications**.  
++ I’m passionate about **Data Science and AI**.  
 + My research interests include **sustainable algorithms**, **climate-related risk evaluation**, and **physiological modeling**.  
 + I’ve worked on projects involving **MLOps**, **phytoremediation analysis**, and **smart safety systems for firefighters**.  
 + My vision is to engineer **AI-driven environmental solutions** that are both **ethical and impactful**.
