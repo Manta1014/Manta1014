@@ -63,6 +63,6 @@
 
 ## 📬 Contact Me
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wlee40@gmu.edu)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:wlee40@gmu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjune-lee-7a6711203/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lwj_manta/)  
