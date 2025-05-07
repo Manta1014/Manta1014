@@ -37,8 +37,8 @@
 ---
 
 ## 🔍 Interests
-- 📊  **Data Sciences**  - Data analysis, Data visualization, Database
-- 💻 **Modeling & Simulationing & Predictioning**
+- 📊  **Data Sciences**  - data analysis, data visualization, database
+- 💻 **Modeling & Simulation & Prediction**
 - 🤖 **AI**
 
 ---
