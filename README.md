@@ -6,10 +6,10 @@
 
 ## 🧑🏻‍💻 About Me
 
-+ I’m passionate about **Data Science and AI**.  
-+ My research interests include **sustainable algorithms**, **climate-related risk evaluation**, and **physiological modeling**.  
++ I’m passionate about **Data Sciences** and **AI**.  
++ My research interests include **Data anaylise**, **climate-related risk evaluation**, and **physiological modeling**.  
 + I’ve worked on projects involving **MLOps**, **phytoremediation analysis**, and **smart safety systems for firefighters**.  
-+ My vision is to engineer **AI-driven environmental solutions** that are both **ethical and impactful**.
++ My vision is to become **Data scientists** and **AI-driven real-life solution provider**.
 
 ---
 
@@ -18,19 +18,15 @@
 ### **Data & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### **Database & Web**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Tools & Visualization**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
