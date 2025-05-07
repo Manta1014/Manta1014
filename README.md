@@ -56,7 +56,7 @@
 
 ## 🧠 Problem Solving  
 <div>
-  <img src="https://leetcard.jacoblin.cool/Manta1014?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="61.7%" />
+  <img src="https://leetcard.jacoblin.cool/lwj31558?theme=minimal&font=Baloo&bg_color=E0FFFF&text_color=FFFFFF&border_color=00BFAE" width="61.7%" />
 </div>
 
 ---
