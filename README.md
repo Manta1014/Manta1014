@@ -6,9 +6,9 @@
 
 ## 🧑🏻‍💻 About Me
 
-+ I’m passionate about **Data Sciences** and **AI**.  
-+ My research interests include **Data anaylise**, **climate-related risk evaluation**, and **physiological modeling**.  
-+ I’ve worked on projects involving **MLOps**, **phytoremediation analysis**, and **smart safety systems for firefighters**.  
++ I’m passionate about **Data Sciences** and **AI**.   
++ I’ve worked on projects involving **health risk prediction**, **media industry analytics**, and **AI-driven ESG evaluation**.
++ I'm working on projects involving **geospatial visualization of crime patterns in Washington, DC** and **SQL data analytics**
 + My vision is to become **Data scientists** and **AI-driven real-life solution provider**.
 
 ---
@@ -39,8 +39,7 @@
 ## 🔍 Interests
 - 🌍 **Environmental Data Science**  
 - 🧠 **Cognitive Modeling & Health AI**  
-- 🧪 **Toxicological Risk Assessment**  
-- 🔥 **Firefighting Physiology & Safety Tech**  
+- 🧪 **Toxicological Risk Assessment**
 
 ---
 
