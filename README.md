@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+[NetLogo](https://img.shields.io/badge/NetLogo-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00NSAzNWgtMnYtM2gxYTIgMiAwIDAgMCAwLTRIMjB2M2gxMnYzaC0xYTIgMiAwIDAgMCAwIDRoMnYzaC0xYTIgMiAwIDAgMCAwIDRoMnYzaC0xYTIgMiAwIDAgMCAwIDRoMnYzaC0xYTIgMiAwIDAgMCAwIDRoMnYzYTIgMiAwIDAgMCAwIDRoMlYxN2g3djE4ek0zMiA4aC00djRoNHYtNHoiLz48L3N2Zz4=&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 ### **Database & Document**
@@ -31,6 +32,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1F62C1?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
