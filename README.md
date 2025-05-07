@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NetLogo](https://github.com/사용자이름/저장소이름/blob/main/assets/netlogo.png?raw=true)
+![NetLogo](https://img.shields.io/badge/NetLogo-3C3C3C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAA...) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 ### **Database & Document**
