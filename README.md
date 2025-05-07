@@ -37,9 +37,9 @@
 ---
 
 ## 🔍 Interests
-- 🌍 **Environmental Data Science**  
-- 🧠 **Cognitive Modeling & Health AI**  
-- 🧪 **Toxicological Risk Assessment**
+- 📊  **Data Sciences**  - Data analysis, Data visualization, Database
+- 💻 **Modeling & Simulationing & Predictioning**
+- 🤖 **AI**
 
 ---
 
