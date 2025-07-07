@@ -7,8 +7,8 @@
 ## 🧑🏻‍💻 About Me
 
 + I’m passionate about **Data Sciences** and **AI**.   
-+ I’ve worked on projects involving **health risk prediction**, **media industry analytics**, and **AI-driven ESG evaluation**.
-+ I'm working on projects involving **geospatial visualization of crime patterns in Washington, DC** and **SQL data analytics**
++ I’ve worked on projects involving **health risk prediction**, **media industry analytics**, **AI-driven ESG evaluation**, **geospatial visualization of crime patterns in Washington, DC**, and **EPL SQL Analytics**.
++ I'm working on projects involving **Data Intelligence AI (with GNN)**
 + My vision is to become **Data scientists** and **AI-driven real-life solution provider**.
 
 ---
