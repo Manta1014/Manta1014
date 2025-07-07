@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-### **Data & AI(ML)**
+### **Data & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,7 +39,7 @@
 ## 🔍 Interests
 - 📊  **Data Sciences**  - data analysis, data visualization, database
 - 💻 **Modeling & Simulation & Prediction**
-- 🤖 **AI (ML)**
+- 🤖 **AI**
 
 ---
 
