@@ -56,5 +56,5 @@
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:wlee40@gmu.edu)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:lwj31558@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjune-lee-7a6711203/)  
