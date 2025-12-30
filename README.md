@@ -36,9 +36,9 @@
 ---
 
 ## 🔍 Interests
+- 🤖 **AI (ML & Deep Learning)**
 - 📊  **Data Sciences**
 - 💻 **Modeling & Simulation & Prediction**
-- 🤖 **AI (GNN, Transformers)**
 
 ---
 
