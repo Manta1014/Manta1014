@@ -1,5 +1,5 @@
 # Wonjune Lee | 이원준
-### Senior @Geroge Mason University   |   Computational & Data Sciences Major
+### B.S at Geroge Mason University   |   Computational & Data Sciences Major
 > 📊 Data Scientist | 🌐 AI Engineer
 
 ---
