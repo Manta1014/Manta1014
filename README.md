@@ -7,7 +7,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-+ AI Engineering Researcher - EFFL Lab (Efficient Learning Lab)
++ AI Engineering Researcher - EffL Lab (Efficient Learning Lab)
 + I’m passionate about **Data Sciences** and **AI**.   
 + I'm working on projects involving **Data Intelligence AI**
 + My vision is to become **Data scientists** and **AI-driven real-life solution provider**.
