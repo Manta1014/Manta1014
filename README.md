@@ -1,4 +1,5 @@
 # Wonjune Lee | 이원준
+### M.S at POSTECH   |   Artificial Intelligence
 ### B.S at Geroge Mason University   |   Computational & Data Sciences Major
 > 📊 Data Scientist | 🌐 AI Engineer
 
@@ -6,6 +7,7 @@
 
 ## 🧑🏻‍💻 About Me
 
++ EFFL Lab (Efficient Learning Lab)
 + I’m passionate about **Data Sciences** and **AI**.   
 + I'm working on projects involving **Data Intelligence AI**
 + My vision is to become **Data scientists** and **AI-driven real-life solution provider**.
