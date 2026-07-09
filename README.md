@@ -1,7 +1,7 @@
 # Wonjune Lee | 이원준
-### (now) M.S at POSTECH (Pohang University of Science and Technology)   |   Artificial Intelligence
+### M.S at POSTECH (Pohang University of Science and Technology)   |   Artificial Intelligence
 ### B.S at Geroge Mason University   |   Computational & Data Sciences Major
-> 📊 Data Scientist | 🌐 AI Engineer
+> 🌐 AI Engineer  |  📊 Data Scientist
 
 ---
 
